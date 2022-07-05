@@ -1,11 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
 
-    <head>
-
-    </head>
-
-    <body>
         <div class="site-wrapper">
     
             <footer class="site-footer">
@@ -26,5 +19,3 @@
                 </div>
             </footer>
         </div>
-    </body>
-    </html>
